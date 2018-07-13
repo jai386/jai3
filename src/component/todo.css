@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.body {
+	position: center;
+	background-color: #E5BAB4;
+	text-align: center;
+	color: #F03D0C;
+}
+.btn {
+	background-color: blue;
+	margin-top: 10px;
+	margin-bottom: 10px; 
+}
+.items {
+	color: black;
+}
+.count {
+	color: #1469E4  ;
+}
+.obtain {
+	margin: 20px;
+}
+.per {
+	color: blue;
+}
+.perhead {
+	color:green;
+}
